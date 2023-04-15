@@ -28,7 +28,7 @@
 
 ## 本地运行
 
-*[GitHub Action 运行](https://github.com/ImYrS/aliyun-auto-signin/blob/main/How-To-Use-Action.md)*
+*[GitHub Action 运行](https://github.com/hrxz/aliyun-signin-action/blob/main/How-To-Use-Action.md)*
 
 1. Clone 本项目到本地或下载 Release 版本
 2. 环境安装
